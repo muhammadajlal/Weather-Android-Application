@@ -11,7 +11,7 @@ The Weather App is a Java mobile application developed in Android Studio. It use
 2. **Retrieve Weather Data**: When the "Fetch Weather" button is pressed, the app hits the URL `https://api.openweathermap.org/data/2.5/weather?q=<city name>,pk&appid=<API KEY>` to retrieve the weather data for the city entered in the Edit Text field. The result of this request is a JSON file.
 
 3. **Display Weather Data**: The app parses the JSON file and displays the following weather data in the table:
-    - Overall weather condition string
+    - Overall weather conditions string
     - Current temperature in Celsius
     - Feels like temperature
     - Max temperature
@@ -39,7 +39,7 @@ The Weather App is a Java mobile application developed in Android Studio. It use
 
 To set up the Weather App on your local machine, follow these steps:
 
-1. **Clone the repository**: Clone the repository to your local machine using the command `git clone <repository-url>`.
+1. **Clone the repository**: Clone the repository to your local machine using the command `git clone https://github.com/muhammadajlal/Weather-Android-Application.git`.
 
 2. **Open the project in Android Studio**: Navigate to the directory where you cloned the repository and open the project in Android Studio.
 
