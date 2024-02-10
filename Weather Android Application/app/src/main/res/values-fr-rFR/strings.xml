@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bsce19009_lab10</string>
+    <string name="weather">temps</string>
+    <string name="get_weather">Obtenir la météo</string>
+</resources>
