@@ -33,11 +33,11 @@ This is a Java mobile application developed in Android Studio. It uses an API to
 
 To set up the Weather App on your local machine, follow these steps:
 
-1. **Clone the repository**: Clone the repository to your local machine using the command `git clone <repository-url>`.
+1. **Clone the repository**: Clone the repository to your local machine using the command `git clone https://github.com/muhammadajlal/Weather-Android-Application.git.
 
 2. **Open the project in Android Studio**: Navigate to the directory where you cloned the repository and open the project in Android Studio.
 
-3. **Run the app**: Click on the `Run` button in Android Studio to build and run the app. You can choose to run the app on an emulator or on an Android device connected to your computer.
+3. **Run the app**: Click on the `Run` button in Android Studio to build and run the app. You can choose to run the app on an emulator or an Android device connected to your computer.
 
 4. **Grant location permissions**: When you first run the app, it will prompt you to grant location permissions. Click on `Allow` to grant the necessary permissions.
 
